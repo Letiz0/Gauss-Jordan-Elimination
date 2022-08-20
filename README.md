@@ -6,6 +6,8 @@
 
 https://ocw.chu.edu.tw/pluginfile.php/788/mod_resource/content/46/Summary_192.pdf
 
+但有個不同的地方在於，我並非先建立下三角矩陣再反向疊代，而是直接將原矩陣轉化為上下三角矩陣再把每一列除以係數。
+
 Demo :
 
 ![Snipaste_2022-08-21_04-14-17](https://user-images.githubusercontent.com/103472129/185764621-9d92bb99-e019-41f3-83ff-644361ae1b05.png)
