@@ -1,4 +1,4 @@
-# GaussianElimination
+# Gauss-Jordan-Elimination
 
 以高斯-約當法 求反矩陣
 
