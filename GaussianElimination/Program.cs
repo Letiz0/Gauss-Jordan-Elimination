@@ -89,6 +89,8 @@
 
             var result = ConvertMatrix(n, inputMatrix);
 
+            Console.WriteLine("\n---------------Result---------------\n");
+
             for (int i = 0; i < n; i++)
             {
                 Console.Write("[ ");
